@@ -1,4 +1,4 @@
-void test1() {
+void test() {
 
   if (true) {
     int a = 5;
@@ -6,6 +6,6 @@ void test1() {
     int a = 10;
   }
  
-  out << "A=" << a << endl;
+  cout << "A=" << a << endl;
 
 }
