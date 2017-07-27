@@ -1,11 +1,12 @@
-void test() {
+void test2() {
 
+  int a = 0;
   if (true) {
     a = 5;
   } else {
     a = 10;
   }
  
-  out << "A=" << a << endl;
+  cout << "A=" << a << endl;
 
 }
